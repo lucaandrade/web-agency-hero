@@ -1,0 +1,33 @@
+body{
+    background-image: url("faded-office.png");
+    display: flex;
+    padding: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-weight: 500;
+    margin-top: 0px;
+}
+
+.bottom-blue{
+    border-bottom: 4px solid #0ea5e9;
+}
+
+button{
+    margin-top: 15px;
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+    font-weight: 700;
+    background: #0ea5e9;
+    border: none;
+    text-align: center;
+    padding: 15px 30px;
+}
